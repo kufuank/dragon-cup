@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: c45c436fd8c004ddfa438e00aaaa5f46
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Gilroy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e1611a76a7c5c4222aeb277d5bc8fa8e, type: 3}
+  - {fileID: 12800000, guid: 301b4f3b6d633441293738ded2d9e29d, type: 3}
+  - {fileID: 12800000, guid: a33a5511603064a389bf84994e31b446, type: 3}
+  - {fileID: 12800000, guid: b226db39a3a124da79e7b2caa615bb7d, type: 3}
+  - {fileID: 12800000, guid: a4013d880a75a431fb1ce0e4cc8f77af, type: 3}
+  - {fileID: 12800000, guid: b1cc7303f0dcc4d8ca7977be727f7e26, type: 3}
+  - {fileID: 12800000, guid: 0495751faca0f43c6bfaadba78748e1f, type: 3}
+  - {fileID: 12800000, guid: 339f250f984ca4ba9b3895b1f9e0ded6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
